@@ -13,18 +13,13 @@ permalink: /syllabus
 
 **Office hourse:** Tuesdays and Thursdays 3-4PM.  Additional office hours are always available by request.
 
-**Zoom room:**  Some lectures and office hours will take place over Zoom using the room number [89637316249](https://fullerton.zoom.us/j/89637316249?pwd=VlFvcWhWRDVxdHpsWnVJTkMwTFMvQT09)
-
-**Zoom password:** 112358
-
-**Course website:** we will use Canvas website (Spring 2022 MATH 407-1 18421), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Spring 2025 MATH 407-1 18027), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2025">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
 * Section: 01
 * Course ID: 18421
 * Time: TTh 4:00PM-5:15PM
 * Meeting Dates: 01/23/2022-05/14/2022
-* Location: online live synchronous lecture on Zoom
 
 ## Course catalog description
 This course is a first-year course in abstract algebra at the senior level.  Topics include sets, mappings, gropus, rings, modules, fields, homomorphisms, advanced topics in vectors paces and theory of linear transformations, matrices, algebras, ideals, field theory, Galois theory.
@@ -35,7 +30,7 @@ This course is a first-year course in abstract algebra at the senior level.  Top
 ### Required Textbooks
 The textbook for this course is:
 
-1. *A First Course in Abstract Algebra* 8th Edition by Fraleigh & Brand.
+1. *Abstract Algebra: An Introduction* 3rd ed by Hungerford
 
 ### Required technology
 For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, and view and upload assignments on Canvas.
@@ -112,24 +107,34 @@ If you have an accommodation from Disability Support Services (such as time-and-
 There will be three midterm exams, each lasting 1 hour.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time in our Zoom meeting on the following dates:
-* Thursday, Feb 22, 2022
-* Thursday, March 24, 2022
-* Thursday, April 28, 2022
+* Thursday, February, 13 2025
+* Thursday, March 13, 2025
+* Thursday, April 17, 2025
 
 **Final Exam**
 The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
-It will be held in our Zoom meeting on Tuesday, May 17 from 5PM-7PM
+
+* Wednesday, May 14, 05:00PM-06:50PM
 
 ## Important academic calendar dates
-* January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
-* February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
-* April 23: Last day the Math Department will be flexible on the approval of non-medical withdrawal requests. Beginning Tuesday, September 22, students must have a serious and compelling reason for non-medical withdrawal requests and must provide supporting documentation for their reason.
-* May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
-* February 7 (Monday): Last day for students to ADD with a permit. All permits expire at midnight on February 7.
-* February 7 (Monday): Last day for students to DROP without a grade of ``W''.  Students drop using Titan Online.
-* February 22 (Tuesday): Last day the Math Department will be flexible on the approval of non-medical withdrawal requests.
-* February 23 (Wednesday) and after, students must have a serious and compelling reason for nonmedical withdrawal requests and must provide supporting documentation for their reason.
-* April 22 (Friday): Final deadline to submit a withdrawal request from classes with a grade of "W" for a serious and compelling reason. Last day to withdraw with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason
+* January 17
+TITAN ONLINE AVAILABLE FOR ADDING
+  - Last day to register without a $25 late registration fee.
+TITAN ONLINE AVAILABLE FOR DROPPING
+  - Last day to drop without a record of enrollment and receive full refund, less $10 per class.
+* January 18 - January 26
+TITAN ONLINE AVAILABLE FOR ADDING
+  - No electronic registration permit required to add classes.
+  - $25 late registration fee to register/add all classes.
+* January 27 - February 4
+LAST DAY TITAN ONLINE AVAILABLE FOR ADDING
+  - EIP-issued registration permit required to add all classes.
+  - $25 late registration fee to register/add all classes.
+  - Last day to drop a class without a grade of "W".	February 4
+  - Last day to drop a class with a grade of "W" and receive 65% refund. Complete the request for Withdrawal Process online	February 18
+* April 18
+LAST DAY FOR WITHDRAWAL
+  - Final deadline to withdraw from classes with a grade of “W” for serious and compelling reasons only. Complete the request for Withdrawal Process online.
 
 ## Academic integrity
 Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:

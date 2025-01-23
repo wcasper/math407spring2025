@@ -33,10 +33,9 @@ The textbook for this course is:
 1. *Abstract Algebra: An Introduction* 3rd ed by Hungerford
 
 ### Required technology
-For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, and view and upload assignments on Canvas.
+For this course, you will need to have access to technology that will allow you to view and upload assignments on Canvas.
 
 * **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
-* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for lectures and office hours.
 * **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments and lectures
 
 ### Technology requests
@@ -99,14 +98,12 @@ For homework, you will need to provide a written solution which will be uploaded
 Homework will also involve some online Canvas quizzes that will help you assess your understanding of different topics.  These will not have a time limit and can be done at home, but should be completed individually.
 
 ## Exams
-Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
-
 If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
 
 **Midterm Exams**
 There will be three midterm exams, each lasting 1 hour.
 Each midterm will be worth 15\% of your final grade.
-Midterms will be held during class time in our Zoom meeting on the following dates:
+Midterms will be held during class time in our classroom on the following dates:
 * Thursday, February, 13 2025
 * Thursday, March 13, 2025
 * Thursday, April 17, 2025

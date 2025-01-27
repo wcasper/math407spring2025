@@ -22,11 +22,13 @@ title: Math 407 Abstract Algebra
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
+**Course notes:** <a target="_parent" href="https://www.overleaf.com/read/vjhbgjbcpjhm#c59127">Overleaf document with ongoing lecture notes (link)</a>
+
+
 **First steps**
 
 Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3252819/modules/7852414">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
 * A reliable internet connection
-* Zoom
 * A webcam
 * A microphone
 

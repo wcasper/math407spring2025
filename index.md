@@ -18,7 +18,7 @@ title: Math 407 Abstract Algebra
 
 **Course meetings:** Monday and Wednesday 4:00PM-5:50PM
 
-**Office hours:** TBA and by appointment
+**Office hours:** Tuesday, Wednesday, and Thursday 3-4PM, and by appointment
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 

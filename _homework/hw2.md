@@ -55,11 +55,7 @@ Most monomorphism of $$S_5$$ into $$S_6$$ behave predictably in the sense that t
 In this problem, we define a very unusual embedding of the group $$S_5$$ into the group $$S_6$$, called the **exotic embedding**.
 It's construction touches on a number of important properties of groups we have discussed in class.
 
-Let $$\Lambda = \{H\leq G: \lvert H\rvert =5\}$$ be the set of all subgroups of $$S_5$$ of order $$5$$, ie.
-
-$$\Lambda = \{H_1,H_2,H_3,H_4,H_5,H_6\}$$
-
-where here
+Consider all subgroups of $$S_5$$ of order $$5$$, ie.
 
 $$
 \begin{align*}

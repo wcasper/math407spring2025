@@ -99,7 +99,7 @@ where $$C_k$$ is the left coset $$(k6)\overline H$$ with $$C_6=\overline H$$.
 $$\sigma C_j := \{\sigma x: x\in C_j\} = C_{\widetilde\sigma(j)}$$
 
 * (d) Prove that the function $$\varphi: S_6\rightarrow S_6$$ defined by $$\varphi(\sigma) = \widetilde\sigma$$ is an automorphism
-* (e) Show that $\varphi((12)(35)(46))$$ has a different cycle type than $$(12)(35)(46)$$.  This shows that $$\varphi$$ is not an inner automorphism.
+* (e) Show that $$\varphi((12)(35)(46))$$ has a different cycle type than $$(12)(35)(46)$$.  This shows that $$\varphi$$ is not an inner automorphism.
 
 
 

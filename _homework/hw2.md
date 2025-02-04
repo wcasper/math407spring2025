@@ -36,7 +36,7 @@ $$f_a:\mathbb{Z}_n\rightarrow\mathbb{Z}_n,\quad f(x) = ax\mod n.$$
 * (a) Prove that $$f_a$$ is a group homomorphism
 * (b) Prove that if $$f: \mathbb{Z}_n\rightarrow\mathbb{Z}_n$$ is a group homomorphism, then $$f=f_a$$ for some $$a$$
 * (c) Prove that $$f_a$$ is an automorphism if and only if $$\gcd(a,n) = 1$$
-* (d) Prove that $$f_a\circ f_b = f_{ab\mod n}$$
+* (d) Prove that $$f_a\circ f_b = f_c$$ for $$c=ab\mod n$$
 
 **Problem 5: **
 

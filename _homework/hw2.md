@@ -38,7 +38,7 @@ $$f_a:\mathbb{Z}_n\rightarrow\mathbb{Z}_n,\quad f(x) = ax\mod n.$$
 * (c) Prove that $$f_a$$ is an automorphism if and only if $$\gcd(a,n) = 1$$
 * (d) Prove that $$f_a\circ f_b = f_c$$ for $$c=ab\mod n$$
 
-**Problem 5: **
+**Problem 5:**
 
 The **cycle type** of a permutation $$\sigma\in S_n$$ is the size of the cycles
 that make up the permutation when expressed as a product of disjoint cycles.  So for example, $$(543)$$ is a $$3$$-cycle, $$(12)(34)(567)$$ is a $$2,2,3$$-cycle, and so on.

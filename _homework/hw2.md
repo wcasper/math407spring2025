@@ -51,7 +51,10 @@ $$\sigma(a_1a_2\dots a_r)\sigma^{-1}  = (\sigma(a_1)\sigma(a_2)\dots\sigma(a_r))
 
 **Problem 6:** Exotic embedding of $$S_5$$ into $$S_6$$.
 
-Most monomorphism of $$S_5$$ into $$S_6$$ behave predictably in the sense that they send elements to other elements with the same cycle structure, so that for example, transpositions are sent to other transpositions.  However, by a freak algebraic coincidence there are others.
+Each permutation in $$S_5$$ can also be thought of as a permutation in $$S_6$$ which fixes $$6$$.
+In this way, we may view $$S_5$$ as a subset of $$S_6$$, and the function $$S_5\rightarrow S_6$$ defined by this inclusion is a group monomorphism.
+Most monomorphism of $$S_5$$ into $$S_6$$ are similar to this in a specific way: they behave predictably in the sense that they preserve cycle types.  This means, for example, that transpositions are sent to transpositions, $$5$$-cycles are sent to $$5$$-cycles, and so on.
+
 In this problem, we define a very unusual embedding of the group $$S_5$$ into the group $$S_6$$, called the **exotic embedding**.
 It's construction touches on a number of important properties of groups we have discussed in class.
 

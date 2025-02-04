@@ -88,7 +88,9 @@ Let $$\overline H = \{\psi(\sigma): \sigma\in S_5\}$$.
 
 $$S_6/\overline H = \{C_1,C_2,C_3,C_4,C_5,C_6\}$$
 
-where $$C_k$$ is the left coset $$(k6)\overline H$$ with $$C_6=\overline H$$.
+where
+
+$$C_1 = (16)\overline H,\ C_2 = (26)\overline H,\ \dots, C_6 = \overline H.$$
 
 * (c) Prove that for every $$\sigma\in S_6$$, there exists a unique $$\widetilde\sigma\in S_6$$ with
 

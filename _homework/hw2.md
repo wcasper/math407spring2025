@@ -24,8 +24,8 @@ Prove that the group $$\mathbb{Q}$$ with additive operation $$+$$ is not cyclic.
 **Problem 3:**
 
 * (a) Find all the subgroups of $$\mathbb{Z}_{10}$$
-* (b) Find all values of $$n$$ for which there is a non-trivial group homomorphisms $$\mathbb{Z}_{10}\rightarrow Z_n$$
-* (c) Find all values of $$n$$ for which there is a non-trivial group homomorphisms $$\mathbb{Z}_n\rightarrow Z_{10}$$
+* (b) Find all values of $$n$$ for which there is a non-trivial group homomorphisms $$\mathbb{Z}_{10}\rightarrow \mathbb{Z}_n$$
+* (c) Find all values of $$n$$ for which there is a non-trivial group homomorphisms $$\mathbb{Z}_n\rightarrow \mathbb{Z}_{10}$$
 
 **Problem 4:**
 

@@ -49,7 +49,7 @@ b) Prove that $$\text{Aut}(G)$$ is isomorphic to the Klein four group $$\mathbb{
 
 ## Problem 5
 
-Prove that if $$G$$ is a group and $$|G|$$ is a prime number, then $$G$$ is a cyclic group.
+Prove that if $$G$$ is a group and $$\lvert G\rvert$$ is a prime number, then $$G$$ is a cyclic group.
 
 ## Problem 6
 
@@ -64,18 +64,19 @@ $$(a,b)\ast (c,d)  = (a +_7 (2^bc), b +_3 d).$$
 For example
 $$(3,2)*(5,1) = (3 +_7 (2^25),2+_31) = (3 +_7 20, 0) = (2,0).$$
 
-a) Show that $G$ has an identity element
+a) Show that $$G$$ has an identity element
 
-b) Show each element of $G$ has an inverse
+b) Show each element of $$G$$ has an inverse
 
-c) Show that $G$ is not Abelian
+c) Show that $$G$$ is not Abelian
 
-d) Find the order of the element $(1,1)$ in $G$.  Show your work.
+d) Find the order of the element $$(1,1)$$ in $$G$$.  Show your work.
 
 ## Problem 7
 
 A group $$G$$ is called **divisible** if given any $$x\in G$$ andy any integer $$n>0$$ there exists a $$y\in G$$ so that $$y^n=x$$.
-[Remember: $$y^n$$ means $$y*y*y*\dots*y$$ $$n$$ times, where $$*$$ is the binary operation of the group $$G$$.
+
+[Remember: $$y^n$$ means $$y*y*y*\dots*y$$ $$n$$ times, where $$*$$ is the binary operation of the group $$G$$.]
 
 a) Show that the group $$\mathbb Q$$ (with binary operation addition) is divisible.
 

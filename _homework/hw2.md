@@ -73,7 +73,7 @@ $$
 
 * (a) Show that for any permutation $$\sigma\in S_5$$, there is a unique permutation $$\overline{\sigma}\in S_6$$ with
 
-$$\sigma^{-1}H_k\sigma = H_{\overline\sigma(k)},\quad\text{for all}\ \ 1\leq k\leq 6.$$
+$$\sigma H_k\sigma^{-1} = H_{\overline\sigma(k)},\quad\text{for all}\ \ 1\leq k\leq 6.$$
 
 * (b) Show that the function $$\psi: S_5\rightarrow S_6$$ defined by $$\psi(\sigma) = \overline{\sigma}$$ is a group monomorphism.
 

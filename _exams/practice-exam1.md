@@ -18,7 +18,7 @@ b) If $$H$$ and $$K$$ are subgroups of a group $$G$$, then the intersection $$H\
 
 c) If $$G$$ is a group of order $$4$$, then $$G$$ must be a cyclic group
 
-d) If $$H$$ is a subgroup of $$G$$, then the number of left cosets of $$H$$ in $$G$$ must divide the order of $$G$$
+d) If $$H$$ is a subgroup of a finite group $$G$$, then the number of left cosets of $$H$$ in $$G$$ must divide the order of $$G$$
 
 e) If $$G$$ is a group and $$a\in G$$, then $$a^2 = a$$ if and only if $$a=e$$
 

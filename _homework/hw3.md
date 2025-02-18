@@ -40,7 +40,7 @@ This function may or may not be well-defined.  When it is, we say $$\varphi$$ **
 
 a) Suppose $$G=\mathbb{R}^3$$, $$H = \mathbb{R}^2$$, 
 
-$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 & 1 & 1\end{array}\right]\right\rbrace,$$
+$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 \\ 1 \\ 1\end{array}\right]\right\rbrace,$$
 
 and let $$\varphi: G\rightarrow H$$ be the linear transformation defined by
 
@@ -55,7 +55,7 @@ Show that $$\overline{\varphi}$$ well-defined.
 
 b) Suppose $$G$$, $$H$$, and $$\varphi$$ are the same as before, but 
 
-$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 & 0 & 1\end{array}\right]\right\rbrace,$$
+$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 \\ 0 & \\\end{array}\right]\right\rbrace,$$
 
 Prove that $$\overline{\varphi}$$ is no longer well-defined.
 

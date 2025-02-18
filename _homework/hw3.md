@@ -72,8 +72,8 @@ a & b\\ c & d
 \end{array}\right]\right) = \frac{az + b}{cz + d}.$$
 
 a) Prove that $$\psi$$ is a group epimorphism
-b) Calculate the kernel of $$\psi$$
-c) Prove that $$\mathcal M$$ is isomorphic to the projective general linear group
+b) Prove that $$\mathcal M$$ is isomorphic to the projective general linear group
+c) Determine the value of $$\chi^{2025}(1)$$, where $$\chi(z) = \frac{3z-1}{-z+3}$$.  [Hint: matrix diagonalization!]
 
 $$\text{PSL}_2(\mathbb C) = \text{GL}_2(\mathbb C)/N,$$
 

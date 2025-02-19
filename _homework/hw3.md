@@ -59,7 +59,7 @@ Show that $$\overline{\varphi}$$ well-defined.
 
 b) Suppose $$G$$, $$H$$, and $$\varphi$$ are the same as before, but 
 
-$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 \\ 0 & \\\end{array}\right]\right\rbrace,$$
+$$N=\text{span}\left\lbrace\left[\begin{array}{c}1 \\ 0 & 1\\\end{array}\right]\right\rbrace,$$
 
 Prove that $$\overline{\varphi}$$ is no longer well-defined.
 

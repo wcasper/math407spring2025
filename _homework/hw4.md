@@ -16,6 +16,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 **Problem 1:**
 
 Prove that if $$G$$ is a group where every element has order $$2$$, then $$G$$ must be Abelian.
+[Hint: consider the expression $$abab$$]
 
 **Problem 2:**
 

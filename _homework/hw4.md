@@ -31,8 +31,9 @@ $$
 R = \left(\begin{array}{cc}
 \cos(2\pi/n) & -\sin(2\pi/n)\\
 \sin(2\pi/n) &  \cos(2\pi/n)
-\end{array}\right),\quad\text{and}\quad
-S = \left(begin{array}{cc}
+\end{array}\right),
+\quad\text{and}\quad
+S = \left(\begin{array}{cc}
 1 & 0\\
 0 & -1
 \end{array}\right).$$
@@ -40,7 +41,7 @@ S = \left(begin{array}{cc}
 * a) Use induction to prove that
 
 $$
-R^k = \left(begin{array}{cc}
+R^k = \left(\begin{array}{cc}
 \cos(2\pi k/n) & -\sin(2\pi k/n)\\
 \sin(2\pi k/n) &  \cos(2\pi k/n)
 \end{array}\right)$$

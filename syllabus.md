@@ -104,9 +104,9 @@ If you have an accommodation from Disability Support Services (such as time-and-
 There will be three midterm exams, each lasting 1 hour.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time in our classroom on the following dates:
-* Thursday, February, 13 2025
-* Thursday, March 13, 2025
-* Thursday, April 17, 2025
+* Wednesday, February, 12 2025
+* Wednesday, March 12, 2025
+* Wednesday, April 16, 2025
 
 **Final Exam**
 The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.

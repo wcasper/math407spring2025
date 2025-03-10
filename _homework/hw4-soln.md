@@ -199,5 +199,32 @@ $$\psi(R^k) = h^k,\quad\text{and}\quad \psi(R^kS) = h^kg$$
 
 is a group isomorphism.
 
+**Solution:**
 
+* a) Remember $$H = \langle h\rangle$$  is a normal subgroup of $$G$$.  Consider the function $$\varphi: H\rightarrow H$$ defined by $$\varphi(h^j) = gh^jg^{-1}$$.
+Since $$H$$ is normal, is an homomorphism of $$H$$, and since $$H$$ is cyclic there must exist an integer $$0\leq m < p$$ with $$\varphi(h^j) = h^{mj}$$ for all $$j$$.  Consequently
 
+$$gh^jg^{-1} = h^{mj}$$
+
+for all $$j$$.  Using the fact that $$g$$ has order $$2$$, we then see
+
+$$h^j = g^2h^jg^{-2} = g(gh^jg^{-1})g^{-1} = gh^{mj}g^{-1} = h^{m^2j}.$$
+
+In particular, this means $$h = h^{m^2}$$, so that $$m^2\equiv 1\mod p$$.
+Consequently $$m^2-1\equiv 0\mod p$$, so that $$(m-1)(m+1)\equiv 0\mod p$$.  Thus $$m-1\equiv 0\mod p$$ or $$m+1\equiv 0\mod p$$, so that $$m=1$$ or $$m=p-1$$.
+If $$m=1$$, then $$gh^jg^{-1} = h^{j}$$ for all $$j$$, which would force $$G$$ to be Abelian.
+Therefore $$m=p-1$$, and we find
+
+$$gh^jg^{-1} = h^{(p-1)j} = h^{pj}h^{-j} = h^{-j}.$$
+
+* b) The function $$\psi$$ is clearly a bijection.  Moreover, we can check that
+
+$$\psi(R^jR^k) = \psi(R^{j+k}) = h^{j+k} = h^jh^k = \psi(R^j)\psi(R^k)$$
+
+$$\psi(R^jR^k S) = \psi(R^{j+k}S) = h^{j+k}g = h^jh^kg = \psi(R^j)\psi(R^kS)$$
+
+$$\psi(R^j SR^k ) = \psi(R^{j-k}S) = h^{j-k}g = h^jh^{-k}g = h^jgh^k = \psi(R^jS)\psi(R^k)$$
+
+$$\psi(R^j SR^k S) = \psi(R^{j-k}) = h^{j-k} = h^jh^{-k} = h^jgh^kg = \psi(R^jS)\psi(R^kS)$$
+
+This shows that $$\psi$$ is a homomorphism.  Thus $$\psi$$ is an isomorphism.  This proves that the only non-Abelian group of order $$2p$$ is $$D_p$$, up to isomorphism.

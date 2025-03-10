@@ -53,7 +53,7 @@ Prove that $$G/N$$ is also a cyclic group.
 
 ## Problem 6
 
-Prove that if $$G$$ is a finite Abelian group and $$n$$ divides the order of $$G$$, then $$G$$ has an element of order $$n$$.
+Prove that if $$G$$ is a finite Abelian group and $$n=pq$$ is a product of two different primes which divides the order of $$G$$, then $$G$$ has an element of order $$n$$.
 Hint: use the Structure Theorem in prime divisor form.
 
 ## Problem 7

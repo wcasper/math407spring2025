@@ -69,6 +69,8 @@ $$\text{GL}_2(\mathbb{R}) = \left\lbrace\left(\begin{array}{cc}a & b\\c & d\end{
 
 c) Prove that
 
-$$\text{GL}_2(\mathbb{R})/\text{SL}_2(\mathbb{R})\cong\mathbb{R}.$$
+$$\text{GL}_2(\mathbb{R})/\text{SL}_2(\mathbb{R})\cong\mathbb{R}^\times,$$
+
+where here $$\mathbb{R}^\times=\mathbb{R}\backslash\{0\}$$ with binary operation given by multiplication.
 
 

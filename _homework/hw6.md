@@ -15,7 +15,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 **Problem 1:**
 
-Show that a ring $$R$$ is a field if and only if the only ideals of $$R$$ are $$(0)$$ and $$R$$.
+Show that a commutative ring with identity $$R$$ is a field if and only if the only ideals of $$R$$ are $$(0)$$ and $$R$$.
 
 **Problem 2:**
 

@@ -37,7 +37,7 @@ Using the notation of the previous problem, let $$a_1,\dots, a_n\in R$$ and cons
 
 Let $$F$$ be a field.  The ring $$F[x,y]$$ consist of all polynomials in two variables $$x$$ and $$y$$.
 * a) Prove that $$F[x,y]$$ is not a PID
-* b) Prove that $$F[x,y]$$ is a UFD.  Hint: Consider the field $$K = F(x)$$ of rational functions in $$x$$.  The ring $$F[x,y]$$ is a subring of $K[y]$.
+* b) Prove that $$F[x,y]$$ is a UFD.  Hint: Consider the field $$K = F(x)$$ of rational functions in $$x$$.  The ring $$F[x,y]$$ is a subring of $$K[y]$$.
 
 
 **Problem 5:**

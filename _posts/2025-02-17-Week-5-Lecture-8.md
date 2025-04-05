@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Lecture 7
+title: Lecture 8
 ---
 
 Notes and highlights from lecture
 
-EXAM 1
-
 ## Reading assignments
 
-* None 
+* Hungerford Section 7.5
 
 
 ## Practice problems:
 
-* None
+* Section problems
 
 
 

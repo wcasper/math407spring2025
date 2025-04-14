@@ -26,7 +26,7 @@ Unless otherwise stated, all rings will be commutative with identity and all rin
 * (b) Prove that if $$I,J\subseteq R$$ are ideals, then $$I\cap J$$ is an ideal
 * (c) Prove that if $$I,J\subseteq R$$ are ideals, then
 
-$$IJ = \{ab: a\in I,\ b\in J\}$$
+$$IJ = \{a_1b_1+a_2b_2+\dots + a_nb_n: a_j\in I,\ b_j\in J\}$$
 
 is also an ideal.
 * (d) Prove that $$IJ\subseteq I\cap J$$

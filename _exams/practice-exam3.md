@@ -43,7 +43,7 @@ $$I = \{6x+10y: x,y\in\mathbb Z\}.$$
 ## Problem 4
 
 * (a) State the definition of a principal ideal domain (PID)
-* (b) Prove that if $$I\subseteq Q[x]$$ is an ideal and $$f(x)\in I$$ is irreducible, then $$I = (f(x))$$.
+* (b) Prove that if $$I\subsetneq Q[x]$$ is an ideal and $$f(x)\in I$$ is irreducible, then $$I = (f(x))$$.
 * (c) Let $$a = e^{2\pi i/8}$$ and suppose
 
 $$I = \{f(x)\in\mathbb Q[x]: f(a) = 0\}.$$

@@ -35,7 +35,7 @@ is also an ideal.
 ## Problem 3
 
 * (a) Write down the definition of a principal ideal
-* (b) Prove that if $$a,b\in \mathbb R$$ are associates, then $$(a) = (b)$$
+* (b) Prove that if $$a,b\in R$$ are associates, then $$(a) = (b)$$
 * (c) Show that the following ideal of $$\mathbb Z$$ is principal and find (with proof) a generator
 
 $$I = \{6x+10y: x,y\in\mathbb Z\}.$$

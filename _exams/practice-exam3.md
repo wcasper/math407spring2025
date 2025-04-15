@@ -14,7 +14,7 @@ Unless otherwise stated, all rings will be commutative with identity and all rin
 ## Problem 1 (True or False)
 
 * (a) The element $$\sqrt{\pi}$$ is algebraic over $$\mathbb Q(\pi)$$
-* (b) The field extension $$\mathbb Q(\sqrt{2},\sqrt{3})$$ is primitive
+* (b) The field extension $$\mathbb Q(\sqrt{2},\sqrt{3})$$ is principal
 * (c) If $$I$$ is a radical ideal of $$R$$, then $$R/I$$ is a reduced ring
 * (d) Every Euclidean domain is a principal ideal domain
 * (e) Greatest common divisors, when they exist, are unique

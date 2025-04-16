@@ -162,7 +162,7 @@ Finally it's a simple algebraic extension of $$K$$ with minimal polynomial $$x^2
 * (b) Since a basis for $$E$$ over $$K$$ is $$\{1,\sqrt{3}\}$$ and a basis for $$K$$ over $$\mathbb Q$$ is $$\{1,\sqrt{5}\}$$, we know a basis for
 $$E$$ over $$\mathbb Q$$ is given by the products
 
-$$\{1\cdot 1, \sqrt{3}\cdot 1, 1\cdot \sqrt{5}, \sqrt{3}\cdot\sqrt{5}.$$
+$$\{1\cdot 1, \sqrt{3}\cdot 1, 1\cdot \sqrt{5}, \sqrt{3}\cdot\sqrt{5}\}.$$
 
 i.e. a basis is
 

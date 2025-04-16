@@ -147,13 +147,13 @@ It follows that
 
 $$3\sqrt{5}+5\sqrt{3}-5(\sqrt{3}+\sqrt{5}) = -2\sqrt{5}\in E$$
 
-and therefore $$\sqrt{5}\in E$$. Since $$\mathbb Q\subseteq E$$, we conclude that $$K = \mathbb Q(\sqrt{5})\subsetq E$$.
+and therefore $$\sqrt{5}\in E$$. Since $$\mathbb Q\subseteq E$$, we conclude that $$K = \mathbb Q(\sqrt{5})\subseteq E$$.
 
 Next note that $$E = K(\sqrt{3})$$.  To see this, note that 
 
 $$3\sqrt{5}+5\sqrt{3}-3(\sqrt{3}+\sqrt{5}) = 2\sqrt{3}\in E$$
 
-and therefore $$\sqrt{3}\in E$$.  Therefore since $$K\subseteq E$$ we have $$K(\sqrt{3})\subsetq E$$.
+and therefore $$\sqrt{3}\in E$$.  Therefore since $$K\subseteq E$$ we have $$K(\sqrt{3})\subseteq E$$.
 Conversely, $$K(\sqrt{3})$$ contains $$\sqrt{3}$$ and $$\sqrt{5}$$ and thus contains $$\sqrt{3}+\sqrt{5}$$.
 Likewise it contains $$\mathbb Q$$, so $$K(\sqrt{3})$$ contains $$\mathbb Q(\sqrt{3}+\sqrt{5})$$.  Hence they are equal.
 

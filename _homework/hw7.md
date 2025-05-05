@@ -23,7 +23,7 @@ Prove that if $$\sigma(a) = a$$ for all $$a\in F$$ and $$\sigma(r) = r$$ for all
 
 Suppose that $$K$$ is the splitting field of $$f(x)\in F[x]$$, and that $$f(x)$$ is a degree $$n$$ polynomial with $$n$$ distinct roots $$r_1, r_2,\dots, r_n$$.
 * (a) Prove that if $$\sigma\in\text{Gal}_F(K)$$, then $$\sigma$$ restricts to a permutation of the set $$\{r_1,\dots, r_n\}$$.
-* (b) Prove that $$\Gal_{\mathbb Q}(F)$$ is isomorphic to a subgroup of $$S_n$$.
+* (b) Prove that $$\text{Gal}_{\mathbb Q}(F)$$ is isomorphic to a subgroup of $$S_n$$.
 * (c) Prove that $$r_1 + r_2 + \dots + r_n$$ must be an element of $$F$$.
 
 **Problem 3:**

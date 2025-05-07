@@ -55,7 +55,7 @@ Let $$n>1$$ be an integer, $$\omega_n = e^{2\pi i/n}\in\mathbb{C}$$ and consider
 * (b) If $$\sigma\in \text{Gal}_{\mathbb Q}(\mathbb C)$$, prove that  $$\sigma(\omega_n) = \omega_n^a$$ for some integer $$1\leq a < n$$ relatively prime to $$n$$.
 * (c) Prove that 
 
-$$1 + e^{2\pi i/n} + e^{4\pi i/n} + e^{6\pi i/n} + e^{2(n-1)\pi i/n}$$
+$$1 + e^{2\pi i/n} + e^{4\pi i/n} + e^{6\pi i/n} + \dots + e^{2(n-1)\pi i/n}$$
 
 is a rational number.  What number is it?
 

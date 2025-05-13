@@ -11,7 +11,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 
 ## Problem 1 (True or False)
 
-Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = \text{Gal}_F(E)$
+Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = \text{Gal}_F(E)$$
 
 * (a) $$F$$ is the fixed subfield of $$G$$, ie. $$F = \{a\in E: \sigma(a) = a\ \forall a\in G\}$$
 
@@ -52,11 +52,9 @@ is an isomorphism of rings.
 * (c) Write down the definition of an ideal $$I$$ of a commutative ring $$R$$.
 
 An ideal $$I\subseteq R$$ is a subset of $$R$$ which is
-\begin{itemize}
-\item non-empty
-\item closed under addition
-\item has the property that if $$a\in I$$ and $$r\in R$$ then $$ra\in I$$
-\end{itemize}
+* non-empty
+* closed under addition
+* has the property that if $$a\in I$$ and $$r\in R$$ then $$ra\in I$$
 
 * (d) Give an example of a field extension $$E$$ of a field $$F$$ whose Galois group is $$\mathbb Z_2\times\mathbb Z_2$$.
 

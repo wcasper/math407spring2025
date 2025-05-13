@@ -266,7 +266,7 @@ What subgroup of $$\text{Gal}_F(K)$$ does the intermediate field $$F(u)$$ corres
 We need to figure out which of the automorphisms fix the element $$u$$.
 The Galois group is
 
-$$\{\sigma_1,\sigma_2,\sigma_4,\sigma_5,\sigma_8,\sigma_{10},\sigma_{11},\sigma_{13},\sigma{16},\sigma_{17},\sigma_{19},\sigma_{20}\}$$
+$$\{\sigma_1,\sigma_2,\sigma_4,\sigma_5,\sigma_8,\sigma_{10},\sigma_{11},\sigma_{13},\sigma_{16},\sigma_{17},\sigma_{19},\sigma_{20}\}$$
 
 and has $$12$$ elements.
 

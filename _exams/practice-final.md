@@ -11,7 +11,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 
 ## Problem 1 (True or False)
 
-Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = \text{Gal}_F(E)$
+Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = \text{Gal}_F(E)$$
 
 * (a) $$F$$ is the fixed subfield of $$G$$, ie. $$F = \{a\in E: \sigma(a) = a\ \forall a\in G\}$$
 

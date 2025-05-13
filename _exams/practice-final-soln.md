@@ -193,10 +193,15 @@ $$g^9 = (g^d)^{9/d} = e^{9/d} = e.$$
 Since $$72 = 2^3\cdot 3^2$$, the non-isomorphic Abelian groups are
 
 $$\mathbb{Z}_2\times \mathbb{Z}_2\times \mathbb{Z}_2\times\mathbb Z_3\times\mathbb Z_3$$
+
 $$\mathbb{Z}_4\times \times \mathbb{Z}_2\times\mathbb Z_3\times\mathbb Z_3$$
+
 $$\mathbb{Z}_8\times\mathbb Z_3\times\mathbb Z_3$$
+
 $$\mathbb{Z}_2\times \mathbb{Z}_2\times \mathbb{Z}_2\times\mathbb Z_6$$
+
 $$\mathbb{Z}_4\times \times \mathbb{Z}_2\times\mathbb Z_6$$
+
 $$\mathbb{Z}_8\times\mathbb Z_6$$
 
 ## Problem 6

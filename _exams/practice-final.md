@@ -11,17 +11,17 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 
 ## Problem 1 (True or False)
 
-Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = G(E/F)$$.
+Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = \text{Gal}_F(E)$
 
 * (a) $$F$$ is the fixed subfield of $$G$$, ie. $$F = \{a\in E: \sigma(a) = a\ \forall a\in G\}$$
 
 * (b) If $$f(x)\in F[x]$$ and $$a\in E$$ is a root of $$f(x)$$, then $$\sigma(a)$$ is also a root of $$f(x)$$
 
-* (c) If $$E/F$$ is a Galois extension, then $$\lvert G\rvert = [E:F]$$
+* (c) If $$F\subseteq E$$ is a Galois extension, then $$\lvert G\rvert = [E:F]$$
 
 * (d) If $$f(x)\in F(x)$$ is irreducible, then all of the roots of $$f(x)$$ must be different
 
-* (e) If $$E/F$$ is a Galois extension, then the number of subgroups of $$G$$ is equal to the number of field extensions of $$F$$ contained in $$E$$
+* (e) If $$F\subseteq E$$ is a Galois extension, then the number of subgroups of $$G$$ is equal to the number of field extensions of $$F$$ contained in $$E$$
 
 ## Problem 2
 
@@ -29,13 +29,13 @@ Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = G(E/F)$$.
 
 * (b) State the First Isomorphism Theorem for rings.
 
-* (c) Write down the defifnition of an ideal $$I$$ of a commutative ring $$R$$.
+* (c) Write down the definition of an ideal $$I$$ of a commutative ring $$R$$.
 
 * (d) Give an example of a field extension $$E$$ of a field $$F$$ whose Galois group is $$\mathbb Z_2\times\mathbb Z_2$$.
 
 ## Problem 3
 
-Consider the field extension $$K = \mathbb Q[\sqrt[4]{2},i]$$ of $$F=\mathbb Q$$.
+Consider the field extension $$K = \mathbb Q(\sqrt[4]{2},i)$$ of $$F=\mathbb Q$$.
 
 * (a) Prove that $$K$$ is the splitting field of a polynomial.
 * (b) Prove that $$[K:F] = 8$$ and therefore $$\text{Gal}_F(K)$$ has order $$8$$

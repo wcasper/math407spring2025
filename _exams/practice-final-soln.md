@@ -116,7 +116,7 @@ $$\overline z = a_1 + b_1\sqrt[4]{2} + c_1\sqrt[4]{4} + d_1\sqrt[4]{8} - ia_2 - 
 also belongs to $$K$$.  Consequently complex conjugation $$\tau: \mathbb C\rightarrow\mathbb C$$,  $$\tau(z) = \overline{z}$$ restricts to a function $$\tau: K\rightarrow K$$.
 
 Since $$\tau(zw) = \overline{zw} = \overline z\overline w = \tau(z)\tau(w)$$ and $$\tau(z+w) = \overline{z+w} = \overline z + \overline w = \tau(z) + \tau(w)$$, we also know that $$\tau$$ is a field homomorphism.
-Finally, since $$\tau^2=\id$$, $$\tau$$ is its own inverse function and is therefore bijective.  Hence $$\tau\in\text{Gal}_F(K)$$
+Finally, since $$\tau^2=\text{id}$$, $$\tau$$ is its own inverse function and is therefore bijective.  Hence $$\tau\in\text{Gal}_F(K)$$
 
 * (e) Show that $$\text{Gal}_F(K) = \langle \sigma,\tau\rangle$$ and $$\text{Gal}_F(K)\cong D_4$$
 

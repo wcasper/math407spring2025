@@ -22,7 +22,7 @@ title: Math 407 Abstract Algebra
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
-**Course notes:** <a target="_parent" href="https://www.overleaf.com/read/vjhbgjbcpjhm#c59127">Overleaf document with ongoing lecture notes (link)</a>
+**Course notes:** See the link on Canvas!
 
 
 **First steps**
